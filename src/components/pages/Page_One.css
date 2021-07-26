@@ -1,0 +1,13 @@
+.about_me {
+  height: 680px;
+  width: 100%;
+  background: linear-gradient(
+    90deg,
+    rgb(237, 233, 247) 0%,
+    rgb(197, 197, 202) 100%
+  );
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
